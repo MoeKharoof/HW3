@@ -1,0 +1,52 @@
+body
+{
+    font-family: 'Philosopher',sans-serif;
+    background-color:#222831;
+    color:#eeeeee;
+    font-size:125%;
+}
+h1
+{
+    margin-left: 10%;
+    margin-top:5%;
+    color:#ffcf00;
+}
+nav
+{
+    background-color:#393e46;
+    padding:25px;
+    border-radius: 5px;
+}
+
+.gold
+{
+    color:#ffcf00;
+}
+
+nav a
+{
+    color:#eeeeee;
+}
+a
+{
+    color:#eeeeee;
+}
+a:hover
+{
+    color:#ffcf00;
+}
+p {
+    margin-left: 10%;
+}
+
+.location{
+    border-radius: 50%;
+    background-color: antiquewhite;
+  }
+  
+.map {
+    margin-top: 4%;
+    height: 500px;
+    width: 90%;
+    margin-bottom: 10%;
+  }

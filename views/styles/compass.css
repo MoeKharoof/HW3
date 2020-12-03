@@ -1,0 +1,17 @@
+.compass
+{
+    position: absolute;
+    width:50%;
+    height: auto;
+    left:33.333%;
+    top:20%;
+}
+.arrow
+{
+    position: absolute;
+    left:20%;
+    top:25%;
+    color:#ffcf00;
+    font-size:125%;
+    font-family: 'Philosopher',sans-serif;
+}
